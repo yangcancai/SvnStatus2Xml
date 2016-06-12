@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<status>
+<target
+   path=".">
+<entry
+   path=".">
+<wc-status
+   props="none"
+   item="normal"
+   revision="10414">
+<commit
+   revision="10410">
+<author>YangCanCai</author>
+<date>2016-06-12T05:12:10.711281Z</date>
+</commit>
+</wc-status>
+</entry>
+<entry
+   path="Run.bat">
+<wc-status
+   props="none"
+   item="normal"
+   revision="10414">
+<commit
+   revision="10410">
+<author>YangCanCai</author>
+<date>2016-06-12T05:12:10.711281Z</date>
+</commit>
+</wc-status>
+</entry>
+<entry
+   path="SvnStatus2Xml.exe">
+<wc-status
+   props="normal"
+   item="modified"
+   revision="10414">
+<commit
+   revision="10410">
+<author>YangCanCai</author>
+<date>2016-06-12T05:12:10.711281Z</date>
+</commit>
+</wc-status>
+</entry>
+<entry
+   path="msvcp120.dll">
+<wc-status
+   item="normal"
+   revision="10414"
+   props="normal">
+<commit
+   revision="10410">
+<author>YangCanCai</author>
+<date>2016-06-12T05:12:10.711281Z</date>
+</commit>
+</wc-status>
+</entry>
+<entry
+   path="msvcr120.dll">
+<wc-status
+   item="normal"
+   revision="10414"
+   props="normal">
+<commit
+   revision="10410">
+<author>YangCanCai</author>
+<date>2016-06-12T05:12:10.711281Z</date>
+</commit>
+</wc-status>
+</entry>
+<entry
+   path="revision.xml">
+<wc-status
+   item="unversioned"
+   props="none">
+</wc-status>
+</entry>
+</target>
+</status>
